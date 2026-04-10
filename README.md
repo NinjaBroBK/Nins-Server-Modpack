@@ -5,7 +5,7 @@
 
 ## Pack Requirements
 - *Minecraft Launcher*  __(NOT MOD MODRINTH LAUNCHER CURSEFORGE ETC you need to do this the pro gamer way)__
-- [Fabric Loader](https://fabricloader.mc) Installed For `Minecraft Version 1.20.1 Loader Version 18.4` And Has The Modded Folders Generated
+- [Fabric Loader](https://fabricmc.net) Installed For `Minecraft Version 1.20.1 Loader Version 18.4` And Has The Modded Folders Generated
 - (*Optional*) If You Have an __Nvidia Gpu__ (Download the [Nvidium Mod](https://modrinth.com/mod/nvidium/version/0.2.6-beta) As Well
 - An __Actually Decent__ Computer
 
