@@ -7,11 +7,11 @@
 - *Minecraft Launcher*  __(NOT MOD MODRINTH LAUNCHER CURSEFORGE ETC you need to do this the pro gamer way)__
 - [Fabric Loader](https://fabricmc.net) Installed For `Minecraft Version 1.20.1 Loader Version 18.4` And Has The Modded Folders Generated
 - (*Optional*) If You Have an __Nvidia Gpu__ (Download the [Nvidium Mod](https://modrinth.com/mod/nvidium/version/0.2.6-beta) As Well
-- An __Actually Decent__ Computer
+- An __Actually Mid__ Computer or Better
 
 # Installation
 0.5. If you have used mods on your version of minecraft before, then please remove your `mod` and `config` folders (I put them a folder and move it to my downloads so I can switch it out later)
-1. Download the __newest version__ of the pack (The top zip) (The older ones are going to be out of date as I update it constantly)
+1. Download the __zip file__ by clicking on __code__ and then download zip__ of the pack (The older ones are going to be deleted as I update it constantly to the main branch for downloads)
 2. Unzip the pack
 3. Move the contents (__Three folders__) of the unzipped pack to your `.minecraft` folder
 
