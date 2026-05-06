@@ -13,7 +13,7 @@
 <details>
 <summary> 3rd Party Launchers </summary>
 
-Modrinth App: Download the latest modpack file and install it by running the file.
+Modrinth App: Download the modpack file in the latest release and install it by running the file.
 
 Curseforge App Pack Code: *PLANNED TO HAPPEN SOON*
 
@@ -25,7 +25,7 @@ Depending on if you have an Nvidia GPU enable/disable the `Nvidium` Mod in the m
 <summary> Manual Modding </summary> 
 
  0.5. If you have used mods on your version of minecraft before, then please remove your `mod` and `config` folders (I put them a folder and move it to my downloads so I can switch it out later)
-  1. Download the __zip file__ by clicking on __code__ and then download zip__ of the pack (The older ones are going to be deleted as I update it constantly to the main branch for downloads)
+  1. Download the __zip file__ in the latest release (not the source code ones)
   2. Unzip the pack
   3. Move the contents (__Three folders__) of the unzipped pack to your `.minecraft` folder
   4. **NVIDIA GPU ONLY** Download [Nvidium Mod](https://modrinth.com/mod/nvidium/version/0.2.6-beta) and add it to the existing mods folder as well
